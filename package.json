@@ -15,6 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "cypress": "cypress open",
     "lint": "eslint src",
     "eject": "react-scripts eject"
   },
@@ -56,4 +57,5 @@
   "devDependencies": {
     "cypress": "10.9.0"
   }
+  
 }
